@@ -1,0 +1,11 @@
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\bin\Debug\KompGraf№1.exe.config
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\bin\Debug\KompGraf№1.exe
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\bin\Debug\KompGraf№1.pdb
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf№1.csproj.AssemblyReference.cache
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf_1.Form1.resources
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf_1.Properties.Resources.resources
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf№1.csproj.GenerateResource.cache
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf№1.csproj.CoreCompileInputs.cache
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf№1.exe
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf№1.pdb
+C:\Users\intre\source\repos\KompGraf№1\KompGraf№1\obj\Debug\KompGraf_1.Form2.resources
